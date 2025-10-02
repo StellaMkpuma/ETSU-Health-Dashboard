@@ -1,5 +1,5 @@
 # ETSU-Health-Dashboard
-An interactive dashboard built for ETSU Public Health to analyze admissions, costs, and patient outcomes. Tools: Python, Power BI, Streamlit,
+An interactive dashboard built for ETSU Public Health to analyze admissions, costs, and patient outcomes. Tools: Python, Power BI, Streamlit
 
 Overview
 
